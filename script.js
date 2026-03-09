@@ -118,7 +118,7 @@ reason: document.getElementById("reason").value
 
 };
 
-await fetch("https://mtc.kovaihost.cloud:2009/apply",{
+await fetch("http://mtc.kovaihost.cloud:2009/apply",{
 
 method:"POST",
 headers:{
