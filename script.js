@@ -114,7 +114,6 @@ const data = {
 
 name: document.getElementById("mcname").value,
 age: document.getElementById("age").value,
-experience: document.getElementById("experience").value,
 reason: document.getElementById("reason").value
 
 };
